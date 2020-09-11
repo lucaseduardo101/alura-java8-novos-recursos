@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="jboss" />
+      <option name="name" value="jboss" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-milestone" />
+      <option name="name" value="spring-libs-milestone" />
+      <option name="url" value="${spring.repo.download.endpoint}/libs-milestone" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="atlassian" />
+      <option name="name" value="atlassian" />
+      <option name="url" value="https://maven.atlassian.com/content/repositories/atlassian-public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wso2-public" />
+      <option name="name" value="wso2-public" />
+      <option name="url" value="http://maven.wso2.org/nexus/content/repositories/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-release" />
+      <option name="name" value="spring-libs-release" />
+      <option name="url" value="${spring.repo.download.endpoint}/libs-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wso2-releases" />
+      <option name="name" value="wso2-releases" />
+      <option name="url" value="http://maven.wso2.org/nexus/content/repositories/releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="visagio-repo" />
+      <option name="name" value="libs-releases" />
+      <option name="url" value="https://visagioartifacts.jfrog.io/visagioartifacts/libs-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="apache" />
+      <option name="name" value="apache" />
+      <option name="url" value="https://repository.apache.org/content/repositories/releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nuxeo" />
+      <option name="name" value="nuxeo" />
+      <option name="url" value="https://maven-eu.nuxeo.org/nexus/content/repositories/public-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="hortonworks" />
+      <option name="name" value="hortonworks" />
+      <option name="url" value="http://repo.hortonworks.com/content/repositories/releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-snapshot" />
+      <option name="name" value="spring-libs-snapshot" />
+      <option name="url" value="${spring.repo.download.endpoint}/libs-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bedatadriven" />
+      <option name="name" value="bedatadriven" />
+      <option name="url" value="https://nexus.bedatadriven.com/content/repositories/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ibiblio" />
+      <option name="name" value="ibiblio" />
+      <option name="url" value="http://maven.ibiblio.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="geomajas" />
+      <option name="name" value="geomajas" />
+      <option name="url" value="http://maven.geomajas.org" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jcenter" />
+      <option name="name" value="jcenter" />
+      <option name="url" value="http://jcenter.bintray.com" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="visagio-repo-snap" />
+      <option name="name" value="libs-snapshots" />
+      <option name="url" value="https://visagioartifacts.jfrog.io/visagioartifacts/libs-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss-ea" />
+      <option name="name" value="jboss-ea" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/ea" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="xwiki" />
+      <option name="name" value="xwiki" />
+      <option name="url" value="http://maven.xwiki.org/releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="clojar" />
+      <option name="name" value="clojar" />
+      <option name="url" value="http://clojars.org/repo" />
+    </remote-repository>
+  </component>
+</project>
