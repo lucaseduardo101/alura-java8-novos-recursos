@@ -11,10 +11,12 @@ public class Atividade1{
         palavras.add("caelum");
 
 
-        palavras.sort((s,j) -> Integer.compare(s.length(),j.length()));
+ //       palavras.sort((s,j) -> Integer.compare(s.length(),j.length()));
+        palavras.sort(Comparator.comparing(String::length));
 
   //    Consumer<String> consumidor = new ConsumidorDeString();
-        palavras.forEach(s -> System.out.println(s));
+  //      palavras.forEach(s -> System.out.println(s));
+        palavras.forEach(System.out::println);
     }
 }
 //class ComparadorDeStringPorTamanho implements Comparator<String> {
